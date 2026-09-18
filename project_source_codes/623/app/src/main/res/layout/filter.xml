@@ -1,0 +1,108 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<TextView
+		android:id="@+id/textview1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Filtering options (Leave blank for default)"
+		android:textSize="16sp"
+		android:textColor="#000000"/>
+	<TextView
+		android:id="@+id/textview2"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Debtor:"
+		android:textSize="12sp"
+		android:textColor="#000000"/>
+	<EditText
+		android:id="@+id/edit_debtor"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		android:hint="Enter who gave out money"
+		android:textColorHint="#607D8B"/>
+	<TextView
+		android:id="@+id/textview3"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Creditor:"
+		android:textSize="12sp"
+		android:textColor="#000000"/>
+	<EditText
+		android:id="@+id/edit_creditor"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		android:hint="Enter who received money"
+		android:textColorHint="#607D8B"/>
+	<TextView
+		android:id="@+id/textview4"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Currency unit:"
+		android:textSize="12sp"
+		android:textColor="#000000"/>
+	<EditText
+		android:id="@+id/edit_currency"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		android:hint="Enter currency unit here"
+		android:textColorHint="#607D8B"/>
+	<TextView
+		android:id="@+id/textview5"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Notes contain (case insensitive):"
+		android:textSize="12sp"
+		android:textColor="#000000"/>
+	<EditText
+		android:id="@+id/edit_note"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:gravity="top"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		android:hint="Enter some keywords here"
+		android:textColorHint="#607D8B"
+		android:lines="3"/>
+	<TextView
+		android:id="@+id/textview6"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Sorting options"
+		android:textSize="16sp"
+		android:textColor="#000000"/>
+	<Spinner
+		android:id="@+id/sort_spinner"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:spinnerMode="dropdown"/>
+	<Button
+		android:id="@+id/save_button"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Apply"
+		android:textSize="12sp"
+		android:textColor="#000000"/>
+</LinearLayout>

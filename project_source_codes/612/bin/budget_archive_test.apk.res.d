@@ -1,0 +1,26 @@
+/storage/emulated/0/.sketchware/mysc/612/bin/budget_archive_test.apk.res \
+ : /storage/emulated/0/.sketchware/mysc/612/app/src/main/res/layout/main.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/layout/gameplay.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/layout/select.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/layout/home.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/layout/account.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/layout/banner.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/layout/win.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/layout/students.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/layout/achieve.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/layout/infrastructure.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/layout/setting.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/layout/combat_view.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/layout/character_select.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/layout/market_item.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/drawable-xhdpi/app_icon.png \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/drawable-xhdpi/default_image.png \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/drawable-xhdpi/raimondi_block_b.png \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/drawable-xhdpi/kyrre_test.png \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/drawable-xhdpi/ivan.png \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/values-v21/styles.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/values/styles.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/values/colors.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/res/values/strings.xml \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/assets/fonts \
+/storage/emulated/0/.sketchware/mysc/612/app/src/main/AndroidManifest.xml \

@@ -1,0 +1,19 @@
+/storage/emulated/0/.sketchware/mysc/630/bin/TowerDefence2.apk.res \
+ : /storage/emulated/0/.sketchware/mysc/630/app/src/main/res/layout/main.xml \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/res/layout/game.xml \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/res/layout/home.xml \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/res/layout/small_text.xml \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/res/drawable-xhdpi/app_icon.png \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/res/drawable-xhdpi/default_image.png \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/res/drawable-xhdpi/warning.png \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/res/drawable-xhdpi/explosion.png \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/res/drawable-xhdpi/bungor.png \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/res/drawable-xhdpi/turret.png \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/res/drawable-xhdpi/catapult.png \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/res/drawable-xhdpi/flamethrower.png \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/res/values-v21/styles.xml \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/res/values/styles.xml \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/res/values/colors.xml \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/res/values/strings.xml \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/assets/fonts \
+/storage/emulated/0/.sketchware/mysc/630/app/src/main/AndroidManifest.xml \
