@@ -1,0 +1,26 @@
+/storage/emulated/0/.sketchware/mysc/609/bin/OldProject3.apk.res \
+ : /storage/emulated/0/.sketchware/mysc/609/app/src/main/res/layout/main.xml \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/layout/shop.xml \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/layout/nothing.xml \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/layout/more.xml \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/layout/background.xml \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/layout/help.xml \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/layout/progressview.xml \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/raw/bell.m4a \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/raw/background_music.m4a \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/raw/hangouts_call.ogg \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/drawable-xhdpi/app_icon.png \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/drawable-xhdpi/default_image.png \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/drawable-xhdpi/error.png \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/drawable-xhdpi/error_cropped.png \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/drawable-xhdpi/three.png \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/drawable-xhdpi/bell.png \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/drawable-xhdpi/apple.png \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/drawable-xhdpi/golden_apple.png \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/drawable-xhdpi/song.png \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/drawable-xhdpi/bungor.png \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/values/styles.xml \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/values/colors.xml \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/res/values/strings.xml \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/assets/fonts \
+/storage/emulated/0/.sketchware/mysc/609/app/src/main/AndroidManifest.xml \

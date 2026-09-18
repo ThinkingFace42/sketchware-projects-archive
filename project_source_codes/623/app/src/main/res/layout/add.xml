@@ -1,0 +1,127 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<TextView
+		android:id="@+id/textview1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Debtor (to):"
+		android:textSize="12sp"
+		android:textColor="#000000"/>
+	<EditText
+		android:id="@+id/edit_debtor"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		android:hint="Enter who gave out money"
+		android:textColorHint="#607D8B"/>
+	<TextView
+		android:id="@+id/textview2"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Creditor (from):"
+		android:textSize="12sp"
+		android:textColor="#000000"/>
+	<EditText
+		android:id="@+id/edit_creditor"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		android:hint="Enter who received money"
+		android:textColorHint="#607D8B"/>
+	<TextView
+		android:id="@+id/textview3"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Amount:"
+		android:textSize="12sp"
+		android:textColor="#000000"/>
+	<EditText
+		android:id="@+id/edit_number"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		android:hint="Enter amount here"
+		android:textColorHint="#607D8B"/>
+	<LinearLayout
+		android:id="@+id/linear1"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:orientation="vertical">
+		<CheckBox
+			android:id="@+id/checkbox1"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:text="Custom currency"
+			android:textSize="12sp"
+			android:textColor="#000000"/>
+		<EditText
+			android:id="@+id/edit_currency"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:text="$"
+			android:textSize="12sp"
+			android:textColor="#000000"
+			android:hint="Enter currency unit here"
+			android:textColorHint="#607D8B"/>
+	</LinearLayout>
+	<TextView
+		android:id="@+id/textview5"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Date:"
+		android:textSize="12sp"
+		android:textColor="#000000"/>
+	<EditText
+		android:id="@+id/edit_date"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		android:hint="Enter date"
+		android:textColorHint="#607D8B"/>
+	<TextView
+		android:id="@+id/textview4"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Notes:"
+		android:textSize="12sp"
+		android:textColor="#000000"/>
+	<EditText
+		android:id="@+id/edit_note"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:gravity="top"
+		android:textSize="12sp"
+		android:textColor="#000000"
+		android:hint="Put other details here"
+		android:textColorHint="#607D8B"
+		android:lines="3"/>
+	<Button
+		android:id="@+id/save_btn"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="8dp"
+		android:text="Save"
+		android:textSize="12sp"
+		android:textColor="#000000"/>
+</LinearLayout>

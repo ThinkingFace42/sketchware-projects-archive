@@ -1,0 +1,22 @@
+/storage/emulated/0/.sketchware/mysc/622/bin/BudgetProject2.apk.res \
+ : /storage/emulated/0/.sketchware/mysc/622/app/src/main/res/layout/main.xml \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/layout/game.xml \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/layout/home.xml \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/layout/team.xml \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/layout/stage.xml \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/layout/editor.xml \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/drawable-xhdpi/app_icon.png \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/drawable-xhdpi/default_image.png \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/drawable-xhdpi/bungor.png \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/drawable-xhdpi/venus.png \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/drawable-xhdpi/birdie.png \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/drawable-xhdpi/sleeping.png \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/drawable-xhdpi/explosion.png \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/drawable-xhdpi/three.png \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/drawable-xhdpi/kai_on.png \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/values-v21/styles.xml \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/values/styles.xml \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/values/colors.xml \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/res/values/strings.xml \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/assets/fonts \
+/storage/emulated/0/.sketchware/mysc/622/app/src/main/AndroidManifest.xml \
