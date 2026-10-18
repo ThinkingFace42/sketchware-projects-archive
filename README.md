@@ -123,4 +123,4 @@ Another noncompilable app containing some code used for a competition, which bas
 
 ## 632 (Card battle/CardBattle)
 5 July 2026
-Not uploaded here yet. A homebrew clone of Slay the Spire essentially. Features scripting languages written by me and a friend. Also moved to Sketchware Pro as a result of changing phone.
+A homebrew clone of Slay the Spire essentially. Features scripting languages written by me and a friend. Also moved to Sketchware Pro as a result of changing phone. Note that this project contains some extra java files (MewtypeInterpreter and the map visualizer) found in the data folder mysc folder, take care when installing. Update: version 1.6 uploaded on 18 Oct 2026.
